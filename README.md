@@ -53,7 +53,8 @@ Aprire QGroundControl manualmente dall'ambiente desktop oppure digitare il coman
 ros2 launch project_pkg drone_launch.py num_drones:=1
 ```
 
-Se il numero di droni è uguale ad 1, in alternativa è possibile utilizzare i seguenti comandi:
+Se il numero di droni è uguale ad 1, in alternativa è possibile utilizzare i seguenti comandi:  
+
 **Per avviare MAVROS**:
 
 ```
