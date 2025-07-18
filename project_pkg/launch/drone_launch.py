@@ -46,7 +46,7 @@
 # 				{'base_latitude': 38.1838},
 # 				{'base_longitude': 15.5501},
 # 				{'base_altitude': 30.0},
-# 				{'waypoint_file': ''},  # Opzionale
+# 				{'waypoint_file': '/home/user/ros2_ws/src/Project_PX4_IIoT/project_pkg/waypoint_file.json'},  # Opzionale
 # 			    ]
 # 			)
 # 		]
